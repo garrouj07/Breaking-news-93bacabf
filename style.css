@@ -1,0 +1,41 @@
+.navbar{
+background-color: #c9710c;
+display: flex;
+justify-content: space-evenly;
+margin: 0px 0px;
+}
+h1{
+margin: 0px;
+ width: 100%;
+ text-align: center;
+}
+.content{
+	background-color: #ffe0bd;
+	margin: 0px 0px;
+	display: flex;
+	flex-wrap: wrap;
+	width: 100%;
+	justify-content: center;
+}
+.content > p{
+width: 100%;
+text-align: center;
+}
+body{
+	margin: 0px 0px;
+
+}
+.news{
+	width: 33%;
+	text-align: center;
+
+}
+#breaking{
+	order: -1;
+	font-size: 1.2em;
+
+}
+
+
+
+
